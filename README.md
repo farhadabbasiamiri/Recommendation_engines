@@ -1,4 +1,4 @@
-# Recommendations-With-IBM-Project
+# Recommendation Engines Project
 
 ### Building A Recommendation Engine With IBM!
 
